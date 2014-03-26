@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<raiz>
+<Direccion enlace="">
+<ident>Di_1252763252093</ident>
+<calle/>
+<numero/>
+<piso/>
+<localidad/>
+<provincia/>
+<cpostal/>
+<pais/>
+</Direccion>
+<Direccion enlace="Co_1252763782078">
+<ident>Di_1252763852937</ident>
+<calle>Ervedelo</calle>
+<numero>22</numero>
+<piso>4º Dcha</piso>
+<localidad>Ourense</localidad>
+<provincia>Ourense</provincia>
+<cpostal>32002</cpostal>
+<pais>España</pais>
+</Direccion>
+<Direccion enlace="Co_1252764342968">
+<ident>Di_1252764393515</ident>
+<calle>Matilde Lloria</calle>
+<numero>24</numero>
+<piso>3º Izq</piso>
+<localidad>Ourense</localidad>
+<provincia>Ourense</provincia>
+<cpostal>32002</cpostal>
+<pais>España</pais>
+</Direccion>
+<Direccion enlace="Co_1252764452765">
+<ident>Di_1252764503968</ident>
+<calle>Progreso</calle>
+<numero>34</numero>
+<piso>3º Dcha</piso>
+<localidad>Ourense</localidad>
+<provincia>Ourense</provincia>
+<cpostal>32002</cpostal>
+<pais>España</pais>
+</Direccion>
+<Direccion enlace="Co_1252764581421">
+<ident>Di_1252764638343</ident>
+<calle>Juan XXIII</calle>
+<numero>31</numero>
+<piso>5º Dcha</piso>
+<localidad>Ourense</localidad>
+<provincia>Ourense</provincia>
+<cpostal>32002</cpostal>
+<pais>España</pais>
+</Direccion>
+<Direccion enlace="Co_1252764689687">
+<ident>Di_1252764740375</ident>
+<calle>Greco</calle>
+<numero>55</numero>
+<piso>3º Dcha</piso>
+<localidad>Ourense</localidad>
+<provincia>Ourense</provincia>
+<cpostal>34003</cpostal>
+<pais>España</pais>
+</Direccion>
+<Direccion enlace="Co_1252764793234">
+<ident>Di_1252764858765</ident>
+<calle>Mateo del prado</calle>
+<numero>24</numero>
+<piso>1º I</piso>
+<localidad>Ourense</localidad>
+<provincia>Ourense</provincia>
+<cpostal>32002</cpostal>
+<pais>España</pais>
+</Direccion>
+<Direccion enlace="Co_1252764893453">
+<ident>Di_1252764944265</ident>
+<calle>Río Arnoia</calle>
+<numero>23</numero>
+<piso>4º D</piso>
+<localidad>Ourense</localidad>
+<provincia>Ourense</provincia>
+<cpostal>32002</cpostal>
+<pais>España</pais>
+</Direccion>
+<Direccion enlace="Co_1252764971937">
+<ident>Di_1252765010968</ident>
+<calle>Rio Miño</calle>
+<numero>54</numero>
+<piso>4</piso>
+<localidad>4º F</localidad>
+<provincia>Ourense</provincia>
+<cpostal>Ourense</cpostal>
+<pais>España</pais>
+</Direccion>
+</raiz>

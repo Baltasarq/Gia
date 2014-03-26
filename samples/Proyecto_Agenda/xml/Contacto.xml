@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<raiz>
+<Contacto enlace="">
+<ident>Co_1252763777687</ident>
+<nombre/>
+<mail/>
+<cumpleanos/>
+<telefonoFijo/>
+<movil/>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252763782078</ident>
+<nombre>Juan Perez Ruiz</nombre>
+<mail>juanpe@gmail.com</mail>
+<cumpleanos>21/01/80</cumpleanos>
+<telefonoFijo>988234567</telefonoFijo>
+<movil>678435677</movil>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252764342968</ident>
+<nombre>Marta Fernández Cruz</nombre>
+<mail>marifer@gmail.com</mail>
+<cumpleanos>21/09/82</cumpleanos>
+<telefonoFijo>987440989</telefonoFijo>
+<movil>601567987</movil>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252764452765</ident>
+<nombre>Laura Cid Cañete</nombre>
+<mail>laracid12@gmail.com</mail>
+<cumpleanos>12/02/82</cumpleanos>
+<telefonoFijo>988234589</telefonoFijo>
+<movil>689223456</movil>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252764581421</ident>
+<nombre>Felipe Martinez Reboredo</nombre>
+<mail>felipmartin@hotmail.com</mail>
+<cumpleanos>15/08/82</cumpleanos>
+<telefonoFijo>988234899</telefonoFijo>
+<movil>655467122</movil>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252764689687</ident>
+<nombre>Omar Gallardón Rei</nombre>
+<mail>omarrei@gmail.com</mail>
+<cumpleanos>14/04/89</cumpleanos>
+<telefonoFijo>983877789</telefonoFijo>
+<movil>678234576</movil>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252764793234</ident>
+<nombre>Gemma Brañas Vazquez</nombre>
+<mail>gemb_ea@gmail.com</mail>
+<cumpleanos>22/05/81</cumpleanos>
+<telefonoFijo>988727300</telefonoFijo>
+<movil>654223390</movil>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252764893453</ident>
+<nombre>Brais Gutierrez Blanco</nombre>
+<mail>bblanco@hotmail.com</mail>
+<cumpleanos>11/04/83</cumpleanos>
+<telefonoFijo>988783376</telefonoFijo>
+<movil>662238909</movil>
+</Contacto>
+<Contacto enlace="Ag_1252625933984">
+<ident>Co_1252764971937</ident>
+<nombre>Silvia Dopazo Cuiñas</nombre>
+<mail>sildopaz@gmail.com</mail>
+<cumpleanos>21/05/84</cumpleanos>
+<telefonoFijo>988378876</telefonoFijo>
+<movil>678912346</movil>
+</Contacto>
+</raiz>
